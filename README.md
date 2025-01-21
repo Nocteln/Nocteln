@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a video game<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning a lot of things<br>💬 Ask me about anything<br>🏫I'm in first year at Epita
+🔭 I’m currently working on a video game<br>🌱 I’m currently learning a lot of things<br>💬 Ask me about anything<br>🏫I'm in first year at Epita
 
 
 ## 🌐 Socials:
@@ -18,8 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nocteln&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nocteln) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
