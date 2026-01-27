@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a video game<br>🌱 I’m currently learning a lot of things<br>💬 Ask me about anything<br>🏫I'm in first year at Epita
+🔭 I’m currently working on a video game<br>🌱 I’m currently learning a lot of things<br>💬 Ask me about anything<br>🏫I'm in second year at Epita
 
 
 ## 🌐 Socials:
